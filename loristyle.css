@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+.lorisubhead {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+}
+.Lorititle {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	color: #FFF;
+}
+.loriitalhead {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+}
+loribody {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+}
+.loribodyagain {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000;
+}
+.lorisubheadwhite {
+	color: #FFF;
+	font: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+}
+loriitalwhite {
+	color: #FFF;
+}
